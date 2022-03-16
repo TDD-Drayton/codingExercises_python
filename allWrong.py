@@ -1,4 +1,6 @@
 # Write any import statements here
+__author__='TDD-Drayton'
+
 def getWrongAnswers(N: int, C: str) -> str:
     my_list=[]
     A="A"
